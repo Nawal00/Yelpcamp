@@ -1,0 +1,51 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 5px;
+} 
+
+
+#campgroundGrid{
+    /*grids adapt to flexible height*/
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#searchBar {
+    padding-top: 8px;
+}
+
+
+.btn-success {
+    color: #fff;
+    background-color: #21332;
+    border-color: #4cae4c;
+}
+.delete-form { 
+    display: inline;
+}
+
+.headings{
+    text-align: center;
+}
+
+.registration{
+    width: 30%; 
+    margin: 25px auto;
+}
+
+.checked {
+    color: orange;
+}
+
+/* Google Maps */
+#map {
+    height: 400px;
+    width: 100%;
+}
