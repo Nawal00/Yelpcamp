@@ -20,13 +20,14 @@ var commentRoutes     = require("./routes/comments"),
     campgroundRoutes  = require("./routes/campgrounds"),
     indexRoutes       = require("./routes/index")
 
-mongoose.connect("mongodb://localhost/yelp_camp_v11", { useNewUrlParser: true });
+// "mongodb://localhost/yelp_camp_v11"
+mongoose.connect( "mongodb+srv://Nawal:Chickenrun93.@ngcluster-oy3wc.mongodb.net/test?retryWrites=true", { useNewUrlParser: true });
 app.use(bodyParser.urlencoded({extended: true}));
 app.set('view engine', 'ejs');
 app.use(express.static(__dirname + "/public"));
 app.use(methodOverride("_method")); 
 app.use(flash());
-seedDB();
+// seedDB();
 
 // create a session (ID/Object) for every user unencode or decode the session
 // middleware configuration with Express so our web server can use passport
