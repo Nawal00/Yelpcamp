@@ -25,3 +25,17 @@ The index page display all campgrounds listed on the website. On the nav bar you
 The show page includes campground's description, reviews and comments. 
 
 <img width="458" alt="Screenshot 2019-03-27 at 21 51 54" src="https://user-images.githubusercontent.com/42609274/55114700-8ff80700-50da-11e9-9bbb-c82055c09b64.png">
+
+
+## Wins 
+
+I was introduced to the exciting technologies in web development such as JavaScript, Express, Node.js, MongoDB, git.github, heroku. From this course I got a real taste of coding and build a good foundation knowledge of web development. 
+
+
+## Future implementation
+
+Features that I want to add are
+
+* User can create a trip using collection of the campgrounds
+* Recreate the app with React on the front end 
+* Migrate to new version of Bootstrap 
