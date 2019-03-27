@@ -4,7 +4,7 @@
 
 * JavaScript (ES5), Node.js, Express, EJS
 * HTML5, Bootstrap, CSS
-* MongoDB, Mongoose, JSON
+* MongoDB, Mongoose, passportLocalMongoose, JSON
 * Heroku, GitHub/Git
 * Google maps API
 
