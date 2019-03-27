@@ -29,7 +29,7 @@ The show page includes campground's description, reviews and comments.
 
 ## Wins 
 
-I was introduced to the exciting technologies in web development such as JavaScript, Express, Node.js, MongoDB, git.github, heroku. From this course I got a real taste of coding and build a good foundation knowledge of web development. 
+I was introduced to some exciting technologies in web development such as JavaScript, Express, Node.js, MongoDB, git.github, heroku. From this project I got a real taste of coding and gained a good foundation knowledge of web development. 
 
 
 ## Future implementation
