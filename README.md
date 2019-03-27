@@ -1,4 +1,4 @@
-# Yelpcamp
+# Yelpcamp: A full stack App with HTML, BootStrap, JavaScript, Node.js, Express, EJS and MongodDB
 
 ## Technologies used
 
